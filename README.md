@@ -31,6 +31,13 @@ The analysis uses several statistical methods and visualizations, including:
 ├── README.md              # Project documentation
 ```
 
+## 🗂️ Data
+
+The file `Movie companies.xlsx` includes the following variables:
+- **Total**: Total cumulative revenue per company.
+- **Releases**: Number of movie releases by the company.
+- **Lifetime Gross**: Cumulative revenue over the lifetime of the releases.
+
 
 
 
