@@ -82,6 +82,19 @@ Ensure you have Python 3.7 or above and the following packages installed:
    jupyter notebook analysis.ipynb
    ```
 
+## 💻 Code
+
+Here's the complete code, divided into sections for calculations, tests, and visualizations.
+
+### 1. Importing Libraries and Loading Data
+```python
+# Import necessary libraries
+import pandas as pd
+import statistics as st
+import scipy.stats as stats
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
 
 
 
