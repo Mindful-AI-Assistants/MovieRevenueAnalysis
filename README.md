@@ -59,6 +59,29 @@ Ensure you have Python 3.7 or above and the following packages installed:
 
 ### Installation
 
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/movie-revenue-analysis.git
+   cd movie-revenue-analysis
+   ```
+
+2. **Install the required dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+   *(Optional)*: Create a virtual environment to keep dependencies isolated:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Jupyter Notebook** to explore the analysis:
+   ```bash
+   jupyter notebook analysis.ipynb
+   ```
+
 
 
 
