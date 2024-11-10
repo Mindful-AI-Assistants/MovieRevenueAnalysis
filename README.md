@@ -29,7 +29,8 @@ The analysis uses several statistical methods and visualizations, including:
 ├── Movie companies.xlsx   # Data file used in the analysis
 ├── analysis.ipynb         # Full code in Jupyter Notebook
 ├── README.md              # Project documentation
-```
+
+
 
 
 
