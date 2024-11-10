@@ -40,6 +40,24 @@ The file `Movie companies.xlsx` includes the following variables:
 - **Releases**: Number of movie releases by the company.
 - **Lifetime Gross**: Cumulative revenue over the lifetime of the releases.
    
+## 🚀 Getting Started
+
+### Installation and Setup 🚀
+
+To set up this project locally, follow these steps:
+
+### Prerequisites
+
+Ensure you have Python 3.7 or above and the following packages installed:
+
+- `pandas`
+- `numpy`
+- `scipy`
+- `seaborn`
+- `matplotlib`
+- `openpyxl`
+
+### Installation
 
 
 
