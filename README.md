@@ -248,7 +248,7 @@ The analysis reveals that the **number of releases** correlates with increased *
 This project was developed by the group consisting of:
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
-- [Gabriel Santos]()
+- [Gabriel Melo Dos Santos](https://github.com/Gabri3l-M)
 - [José Augusto de Souza Oliveira](https://github.com/Jojose3)
 - [Pedro Barrengo]()
 
