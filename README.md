@@ -219,6 +219,18 @@ To understand the relationships between **Total Revenue**, **Releases**, and **L
 
 
 
+#### Correlation Heatmap Code 🔥
+
+```python
+# Correlation Heatmap Visualization
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+sns.heatmap(df.corr(), annot=True, center=0, cmap='coolwarm')
+plt.title('Correlation Heatmap: Revenue, Releases, and Lifetime Gross')
+plt.show()
+```
+
 
 
 
