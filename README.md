@@ -9,6 +9,11 @@
 
 Analyze movie companies' revenue, release strategies, and financial performance using statistical techniques for actionable insights. This project explores data on total revenue, number of releases, and lifetime gross to uncover patterns that can drive strategic decisions in the film industry.
 
+## Acknowledgments 🙏
+
+This analysis is based on movie industry data and was inspired by the need for data-driven insights in strategic decision-making. Special thanks to the contributors and the open-source community for their support.
+
+
 ## 📄 Project Description
 This project focuses on a financial and strategic analysis of movie companies, examining key variables such as **total revenue**, **number of releases**, and **lifetime gross** over time. We employ descriptive and inferential statistical techniques to uncover valuable insights that can support strategic decision-making in the film industry.
 
