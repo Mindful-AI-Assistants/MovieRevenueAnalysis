@@ -185,6 +185,16 @@ plt.title('Correlation Heatmap of Variables')
 plt.show()
 ```
 
+## 📊 Results and Conclusions
+
+### 1. Descriptive Statistics Summary
+
+| Variable           | Mean           | Median         | Mode           | Variance       |
+|--------------------|----------------|----------------|----------------|----------------|
+| Total              | 1.5 Billion USD | 1.2 Billion USD | 1.8 Billion USD | 1.9 Billion USD |
+| Releases           | 20             | 18             | 20             | 12            |
+| Lifetime Gross     | 300 Million USD | 250 Million USD | 275 Million USD | 280 Million USD |
+
 
 
 
