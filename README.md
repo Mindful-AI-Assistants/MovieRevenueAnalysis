@@ -195,6 +195,17 @@ plt.show()
 | Releases           | 20             | 18             | 20             | 12            |
 | Lifetime Gross     | 300 Million USD | 250 Million USD | 275 Million USD | 280 Million USD |
 
+<br>
+
+### 2. T-Test Results
+
+| Variable          | Reference Value  | p-value         | Hypothesis Conclusion     |
+|-------------------|------------------|-----------------|---------------------------|
+| Total             | 2 Billion USD    | 0.04            | Rejected (mean below)     |
+| Releases          | 22               | 0.08            | Not Rejected (no significant difference) |
+| Lifetime Gross    | 250 Million USD  | 0.01            | Rejected (mean above)     |
+
+
 
 
 
