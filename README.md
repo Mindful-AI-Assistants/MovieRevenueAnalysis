@@ -135,7 +135,15 @@ print("Variance - Releases:", variance_releases)
 print("Variance - Lifetime Gross:", variance_lifetime_gross)
 ```
 
+### 4. Mode and Median Calculations
 
+```python
+# Calculate modes (values that occur most frequently in each column)
+# Useful for identifying common values in main variables
+modes = pd.concat([df['Total'].mode(), df['Releases'].mode(), df['Lifetime Gross'].mode()], axis=1)
+modes.columns = ['Mode_Total', 'Mode_Releases', 'Mode_Lifetime_Gross']
+print("Variable Modes:\n", modes)
+```
 
 
 
