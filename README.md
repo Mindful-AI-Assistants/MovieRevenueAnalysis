@@ -118,6 +118,15 @@ df.head()
 df.describe()
 ```
 
+### 3. Variance Calculations
+
+```python
+# Calculate variances (difference between max and min values)
+# Helps to understand the range of values in revenue and releases
+variance_total = df['Total'].max() - df['Total'].min()
+variance_releases = df['Releases'].max() - df['Releases'].min()
+variance_lifetime_gross = df['Lifetime Gross'].max() - df['Lifetime Gross'].min()
+```
 
 
 
