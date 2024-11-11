@@ -243,6 +243,23 @@ plt.show()
 
 The analysis reveals that the **number of releases** correlates with increased **lifetime gross**, and that the average total revenue is below 2 billion, rejecting the hypothesis of a mean above this value. The t-test indicated that, for most companies, the cumulative lifetime gross surpasses 250 million, supporting the industry’s growth with strategic releases.
 
+
+## Contributions 🤝
+
+We welcome contributions from the community! To contribute:
+
+1. **Fork the repository**.
+2. **Create a new branch**:
+   ```bash
+   git checkout -b feature-branch
+   ```
+3. **Make your changes** and test them.
+4. **Submit a pull request** with a detailed explanation of your changes.
+
+Please ensure your code follows best practices and is well-documented
+
+
+
 ## 🏅 Credits
 
 This project was developed by the group consisting of:
