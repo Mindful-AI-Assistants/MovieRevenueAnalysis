@@ -243,6 +243,10 @@ plt.show()
 
 The analysis reveals that the **number of releases** correlates with increased **lifetime gross**, and that the average total revenue is below 2 billion, rejecting the hypothesis of a mean above this value. The t-test indicated that, for most companies, the cumulative lifetime gross surpasses 250 million, supporting the industry’s growth with strategic releases.
 
+## 🏅 Credits
+
+This project was developed as part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of [Professor Erick Bacconi Gonçalves]().
+
 
 ## 📌 Contributions
 
