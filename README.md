@@ -261,7 +261,7 @@ Feel free to suggest improvements or contribute to this project. Just open an **
 
 ## 📞 Contact
 
-For questions or suggestions, please reach out Fabiana 🚀 campanari via [email](mailto:fabicampanari@proton.me).
+For questions or suggestions, please reach out Fabiana 🚀 Campanari via [email](mailto:fabicampanari@proton.me).
 
 
 
