@@ -259,6 +259,12 @@ It is part of an academic analysis of financial data within the film industry, c
 Feel free to suggest improvements or contribute to this project. Just open an **Issue** or submit a **Pull Request**!
 
 
+## 📞 Contact
+
+For questions or suggestions, please reach out Fabiana 🚀 campanari via [email](mailto:fabicampanari@proton.me).
+
+
+
 
 
 
