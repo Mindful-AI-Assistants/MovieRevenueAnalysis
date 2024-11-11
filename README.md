@@ -144,7 +144,16 @@ modes = pd.concat([df['Total'].mode(), df['Releases'].mode(), df['Lifetime Gross
 modes.columns = ['Mode_Total', 'Mode_Releases', 'Mode_Lifetime_Gross']
 print("Variable Modes:\n", modes)
 ```
+#### Calculate medians for central tendency in distributions
 
+```python
+median_total = int(df['Total'].median())
+median_releases = int(df['Releases'].median())
+median_lifetime_gross = int(df['Lifetime Gross'].median())
+print("Median - Total:", median_total)
+print("Median - Releases:", median_releases)
+print("Median - Lifetime Gross:", median_lifetime_gross)
+```
 
 
 
