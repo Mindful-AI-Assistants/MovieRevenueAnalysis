@@ -175,6 +175,17 @@ print("T-Test for Lifetime Gross:", t_test_lifetime_gross)
 ```
 
 
+### 6. Correlation Heatmap
+```python
+# Creating the correlation heatmap to visualize relationships between numeric variables
+# The heatmap helps identify strong or weak relationships between variables
+plt.figure(figsize=(8, 6))
+sns.heatmap(df.corr(numeric_only=True), annot=True, center=0, cmap="coolwarm")
+plt.title('Correlation Heatmap of Variables')
+plt.show()
+```
+
+
 
 
 #
