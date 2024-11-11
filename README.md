@@ -155,6 +155,24 @@ print("Median - Releases:", median_releases)
 print("Median - Lifetime Gross:", median_lifetime_gross)
 ```
 
+### 5. T-Tests
+
+```python
+# Apply t-tests to check if the variable means differ from a specific reference value
+# Using reference values as per provided data
+
+# T-test for 'Total' with a reference value of 2 billion
+t_test_total = stats.ttest_1samp(df['Total'], 2_000_000_000)
+print("T-Test for Total:", t_test_total)
+
+# T-test for 'Releases' with a reference value of 22
+t_test_releases = stats.ttest_1samp(df['Releases'], 22)
+print("T-Test for Releases:", t_test_releases)
+
+# T-test for 'Lifetime Gross' with a reference value of 250 million
+t_test_lifetime_gross = stats.ttest_1samp(df['Lifetime Gross'], 250_000_000)
+print("T-Test for Lifetime Gross:", t_test_lifetime_gross)
+```
 
 
 
