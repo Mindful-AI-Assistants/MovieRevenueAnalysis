@@ -96,8 +96,20 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
+###  Load data file and verify the file path
 
+```python
+try:
+    df = pd.read_excel('Movie companies.xlsx')
+except FileNotFoundError:
+    print("File not found. Please check the file name and path.")
+```
+    
+# Display the data header to understand the structure
 
+```python
+df.head()
+```
 
 
 
