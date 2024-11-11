@@ -231,6 +231,8 @@ plt.title('Correlation Heatmap: Revenue, Releases, and Lifetime Gross')
 plt.show()
 ```
 
+<br>
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/8f197343-d8c8-4d44-80f0-31db6c72b015" />
 
