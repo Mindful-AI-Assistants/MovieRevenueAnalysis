@@ -111,6 +111,12 @@ except FileNotFoundError:
 df.head()
 ```
 
+### 2. Descriptive Analysis
+
+```python
+# Perform descriptive analysis with statistical metrics for each numeric variable
+df.describe()
+```
 
 
 
