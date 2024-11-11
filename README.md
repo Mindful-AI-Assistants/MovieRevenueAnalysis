@@ -245,8 +245,14 @@ The analysis reveals that the **number of releases** correlates with increased *
 
 ## 🏅 Credits
 
-This project was developed as part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of [Professor Erick Bacconi Gonçalves]().
+This project was developed by the group consisting of:
 
+- [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
+- [Gabriel Santos]()
+- [José Augusto]()
+- [Pedro Barrengo]()
+
+It is part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of Professor Erick Bacconi.
 
 ## 📌 Contributions
 
