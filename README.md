@@ -238,6 +238,11 @@ plt.show()
 
 
 
+## 📢 Conclusion
+
+The analysis reveals that the **number of releases** correlates with increased **lifetime gross**, and that the average total revenue is below 2 billion, rejecting the hypothesis of a mean above this value. The t-test indicated that, for most companies, the cumulative lifetime gross surpasses 250 million, supporting the industry’s growth with strategic releases.
+
+
 
 #
  
