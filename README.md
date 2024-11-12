@@ -188,7 +188,7 @@ else:
 ```
 
 
-#### 6. Calculation of the t-test for 'Releases':
+### 6. Calculation of the t-test for 'Releases':
 
 ```python
 # Teste t para a variável 'Releases' com valor de referência 22
@@ -201,6 +201,8 @@ print("Teste t para Releases:", t_test_releases)
 ```python
 alpha = 0.05
 ```
+
+#### 6a. Null hypothesis check for 'Releases':
 
 
 
