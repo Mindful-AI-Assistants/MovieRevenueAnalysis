@@ -213,11 +213,10 @@ else:
 
 ### 7. Calculation of the t-test for 'Lifetime Gross':
 
-
 ```python
 # T-test for 'Lifetime Gross' with a reference value of 250 million
-t_test_lifetime_gross = stats.ttest_1samp(df['Lifetime Gross'], 250_000_000)
-print("T-Test for Lifetime Gross:", t_test_lifetime_gross)
+stats.ttest_1samp(df['Lifetime Gross'], 2.500000e+08)
+print("Teste t para Lifetime Gross:", t_test_lifetime_gross)
 ```
 
 
