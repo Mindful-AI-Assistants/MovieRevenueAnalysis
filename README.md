@@ -278,8 +278,25 @@ plt.show()
 
 These metrics provide a foundational understanding of the variability and central tendencies in the financial performance of movie brands and studios. They serve as the baseline for further statistical testing and correlation analysis.
 
-
 <br>
+
+## 3. Detailed Statistical Insights
+
+### Mean and Median
+
+- **Total Revenue**: An average of $1.65 billion, indicating that brands or studios generate this amount on average.
+- **Releases**: The mean number of releases is 20.5, reflecting an average of approximately 21 films per studio.
+- **Lifetime Gross**: An average accumulated revenue of $235 million per film.
+
+
+
+
+
+
+
+
+
+
 
 ### 2. T-Test Results
 
