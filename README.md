@@ -314,6 +314,8 @@ These metrics provide a foundational understanding of the variability and centra
 - **Releases**: A range of 45 points to a large variation in film release frequency.
 - **Lifetime Gross**: A range of $400 million demonstrates varied performance in lifetime revenue per film.
 
+These statistics illustrate the high variability in revenues and film releases across brands and studios, suggesting diverse strategies and market performances.
+
 
 
 
