@@ -219,8 +219,23 @@ stats.ttest_1samp(df['Lifetime Gross'], 2.500000e+08)
 print("Teste t para Lifetime Gross:", t_test_lifetime_gross)
 ```
 
+#### 7a. Definition of the significance level:
 
-### 6. Correlation Heatmap
+```python
+alpha = 0.05
+```
+
+
+
+
+
+
+
+
+
+
+
+### 8. Correlation Heatmap
 ```python
 # Creating the correlation heatmap to visualize relationships between numeric variables
 # The heatmap helps identify strong or weak relationships between variables
