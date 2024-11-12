@@ -133,7 +133,7 @@ variance_total = df['Total'].max() - df['Total'].min()
 variance_releases = df['Releases'].max() - df['Releases'].min()
 variance_lifetime_gross = df['Lifetime Gross'].max() - df['Lifetime Gross'].min()
 ```
-#### Display variances for analysis
+#### 3a. Display variances for analysis
 
 ```python
 print("Variance - Total:", variance_total)
