@@ -279,7 +279,7 @@ plt.show()
 
 These metrics provide a foundational understanding of the variability and central tendencies in the financial performance of movie brands and studios. They serve as the baseline for further statistical testing and correlation analysis.
 
-<br>
+#
 
 ### 2. Detailed Statistical Insights
 
@@ -312,7 +312,7 @@ These metrics provide a foundational understanding of the variability and centra
 
 These statistics illustrate the high variability in revenues and film releases across brands and studios, suggesting diverse strategies and market performances.
 
-<br>
+#
 
 ### 3. T-Test Analysis
 
