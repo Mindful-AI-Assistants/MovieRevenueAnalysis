@@ -282,17 +282,25 @@ These metrics provide a foundational understanding of the variability and centra
 
 ## 2. Detailed Statistical Insights
 
-### Mean and Median
+#### Mean and Median
 
 - **Total Revenue**: An average of $1.65 billion, indicating that brands or studios generate this amount on average.
 - **Releases**: The mean number of releases is 20.5, reflecting an average of approximately 21 films per studio.
 - **Lifetime Gross**: An average accumulated revenue of $235 million per film.
 
 
-### Mode
+#### Mode
+
 - **Total Revenue**: The mode of $1.5 billion suggests that this revenue value is the most frequently observed.
 - **Releases**: A mode of 15 indicates that many brands typically release around 15 films.
 - **Lifetime Gross**: A mode of $300 million points to a common cumulative revenue figure among films.
+
+
+#### Maximum and Minimum Values
+
+- **Total Revenue**: The highest revenue observed is $3.4 billion, representing top-performing brands.
+- **Releases**: A maximum of 50 releases by a single brand.
+- **Lifetime Gross**: A maximum of $500 million indicates the highest cumulative revenue achieved by a single film.
 
 
 
