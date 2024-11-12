@@ -161,7 +161,7 @@ print("Median - Releases:", median_releases)
 print("Median - Lifetime Gross:", median_lifetime_gross)
 ```
 
-#### 5. Applying T-Tests to check if the mean of the variables differs from a reference value.
+### 5. Applying T-Tests to check if the mean of the variables differs from a reference value.
 
 ```python
 # Apply t-tests to check if the variable means differ from a specific reference value
@@ -196,7 +196,11 @@ t_test_releases = stats.ttest_1samp(df['Releases'], 22)
 print("T-Test for Releases:", t_test_releases)
 ```
 
+#### 6a. Definition of the significance level:
 
+```python
+alpha = 0.05
+```
 
 
 
