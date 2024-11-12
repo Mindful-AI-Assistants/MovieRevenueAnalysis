@@ -202,7 +202,14 @@ print("Teste t para Releases:", t_test_releases)
 alpha = 0.05
 ```
 
-#### 6a. Null hypothesis check for 'Releases':
+#### 6b. Null hypothesis check for 'Releases':
+
+```python
+if t_test_total.pvalue < alpha:
+    print("We reject the null hypothesis (H0) for Total.")
+else:
+    print("We accept the null hypothesis (H0) for Total.")
+```
 
 
 
