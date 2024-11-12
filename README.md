@@ -100,6 +100,8 @@ import statistics as st
 import scipy.stats as stats
 import matplotlib.pyplot as plt
 import seaborn as sns
+import numpy as np
+from openpyxl import load_workbook
 ```
 
 #### 1a. Load data file and verify the file path
