@@ -170,7 +170,22 @@ print("Median - Lifetime Gross:", median_lifetime_gross)
 # T-test for 'Total' with a reference value of 2 billion
 t_test_total = stats.ttest_1samp(df['Total'], 2.000000e+09)
 print("T-Test for Total:", t_test_total)
+```
 
+### 5a. Definition of the significance level:
+
+```python
+alpha = 0.05
+```
+
+
+
+
+
+
+
+
+```python
 # T-test for 'Releases' with a reference value of 22
 t_test_releases = stats.ttest_1samp(df['Releases'], 22)
 print("T-Test for Releases:", t_test_releases)
