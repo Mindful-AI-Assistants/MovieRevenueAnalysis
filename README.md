@@ -7,7 +7,8 @@
 
 #  <p align="center"> 🎥💰  Movie Companies Revenue Analysis: Statistical Insights and Release Strategies
 
-Analyze movie companies' revenue, release strategies, and financial performance using statistical techniques for actionable insights. This project explores data on total revenue, number of releases, and lifetime gross to uncover patterns that can drive strategic decisions in the film industry.
+This analysis investigates the financial performance of movie brands and studios, focusing on key revenue metrics: **Total Revenue**, **Releases**, and **Lifetime Gross**. Using descriptive statistics, t-tests, correlation analysis, and graphical representations, we explore the relationships among these variables and assess how well they align with expected performance benchmarks.
+
 
 ## Acknowledgments 🙏
 
