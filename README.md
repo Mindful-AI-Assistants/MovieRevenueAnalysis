@@ -235,15 +235,13 @@ else:
 ```
 
 
+### 8. Correlation Heatmap Code 🔥
 
-
-
-
-
-
-
-### 8. Correlation Heatmap
 ```python
+# Correlation Heatmap Visualization
+import seaborn as sns
+import matplotlib.pyplot as plt
+
 # Creating the correlation heatmap to visualize relationships between numeric variables
 # The heatmap helps identify strong or weak relationships between variables
 plt.figure(figsize=(8, 6))
@@ -251,6 +249,18 @@ sns.heatmap(df.corr(numeric_only=True), annot=True, center=0, cmap="coolwarm")
 plt.title('Correlation Heatmap of Variables')
 plt.show()
 ```
+<br><br>
+
+ <p align="center">
+<img src="https://github.com/user-attachments/assets/8f197343-d8c8-4d44-80f0-31db6c72b015" />
+
+<br><br>
+
+
+
+
+
+
 
 
 
@@ -269,12 +279,9 @@ plt.show()
 
 ### 1. Descriptive Statistics Summary
 
-
-
 <br>
 
 ### 2. T-Test Results
-
 
 
 <br>
@@ -286,22 +293,8 @@ plt.show()
 
 
 
-#### Correlation Heatmap Code 🔥
 
-```python
-# Correlation Heatmap Visualization
-import seaborn as sns
-import matplotlib.pyplot as plt
 
-sns.heatmap(df.corr(), annot=True, center=0, cmap='coolwarm')
-plt.title('Correlation Heatmap: Revenue, Releases, and Lifetime Gross')
-plt.show()
-```
-
-<br>
-
- <p align="center">
-<img src="https://github.com/user-attachments/assets/8f197343-d8c8-4d44-80f0-31db6c72b015" />
 
 
 <br><br>
