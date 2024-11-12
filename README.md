@@ -313,8 +313,9 @@ These metrics provide a foundational understanding of the variability and centra
 
 These statistics illustrate the high variability in revenues and film releases across brands and studios, suggesting diverse strategies and market performances.
 
+<br>
 
-## 4. T-Test Analysis
+## 3. T-Test Analysis
 
 To examine whether the observed averages of **Total Revenue**, **Releases**, and **Lifetime Gross** differ significantly from industry benchmarks, one-sample t-tests were conducted. 
 
