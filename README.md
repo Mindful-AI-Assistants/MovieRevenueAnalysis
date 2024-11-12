@@ -150,7 +150,7 @@ modes = pd.concat([df['Total'].mode(), df['Releases'].mode(), df['Lifetime Gross
 modes.columns = ['Mode_Total', 'Mode_Releases', 'Mode_Lifetime_Gross']
 print("Variable Modes:\n", modes)
 ```
-#### Calculate medians for central tendency in distributions
+#### 4a. Calculate medians for central tendency in distributions
 
 ```python
 median_total = int(df['Total'].median())
