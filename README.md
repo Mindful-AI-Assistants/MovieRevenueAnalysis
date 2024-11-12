@@ -225,7 +225,14 @@ print("Teste t para Lifetime Gross:", t_test_lifetime_gross)
 alpha = 0.05
 ```
 
+#### 7b. Null hypothesis check for 'Lifetime Gross':
 
+```python
+if t_test_total.pvalue < alpha:
+    print("We reject the null hypothesis (H0) for Total.")
+else:
+    print("We accept the null hypothesis (H0) for Total.")
+```
 
 
 
