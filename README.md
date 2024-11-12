@@ -1,11 +1,15 @@
 <br><br>
 
+#  <p align="center"> 🎥💰  Movie Companies Revenue Analysis: Statistical Insights and Release Strategies
+
+<br>
+
  <p align="center">
 <img src="https://github.com/user-attachments/assets/44205022-1828-4be5-96ce-390a0ce9436c" />
 
 <br><br>
 
-#  <p align="center"> 🎥💰  Movie Companies Revenue Analysis: Statistical Insights and Release Strategies
+
 
 This analysis investigates the financial performance of movie brands and studios, focusing on key revenue metrics: **Total Revenue**, **Releases**, and **Lifetime Gross**. Using descriptive statistics, t-tests, correlation analysis, and graphical representations, we explore the relationships among these variables and assess how well they align with expected performance benchmarks.
 
