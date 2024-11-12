@@ -191,9 +191,9 @@ else:
 #### 6. Calculation of the t-test for 'Releases':
 
 ```python
-# T-test for 'Releases' with a reference value of 22
+# Teste t para a variável 'Releases' com valor de referência 22
 t_test_releases = stats.ttest_1samp(df['Releases'], 22)
-print("T-Test for Releases:", t_test_releases)
+print("Teste t para Releases:", t_test_releases)
 ```
 
 #### 6a. Definition of the significance level:
