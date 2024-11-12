@@ -259,10 +259,10 @@ plt.show()
 <br><br>
 
 
-## 📊 Final Report on Film Revenue Analysis
+##  <p align="center"> 📊 Final Report on Film Revenue Analysis
 
 
-## 1. **Descriptive Statistics Summary Table**
+### 1. **Descriptive Statistics Summary Table**
 
 
 | Statistic       | Total Revenue (in billions) | Releases | Lifetime Gross (in millions) |
@@ -281,7 +281,7 @@ These metrics provide a foundational understanding of the variability and centra
 
 <br>
 
-## 2. Detailed Statistical Insights
+### 2. Detailed Statistical Insights
 
 ### ***Mean and Median***
 
@@ -314,7 +314,7 @@ These statistics illustrate the high variability in revenues and film releases a
 
 <br>
 
-## 3. T-Test Analysis
+### 3. T-Test Analysis
 
 To examine whether the observed averages of **Total Revenue**, **Releases**, and **Lifetime Gross** differ significantly from industry benchmarks, one-sample t-tests were conducted. 
 
