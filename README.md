@@ -161,7 +161,7 @@ print("Median - Releases:", median_releases)
 print("Median - Lifetime Gross:", median_lifetime_gross)
 ```
 
-### 5. T-Tests
+### 5. Applying T-Tests to check if the mean of the variables differs from a reference value.
 
 ```python
 # Apply t-tests to check if the variable means differ from a specific reference value
