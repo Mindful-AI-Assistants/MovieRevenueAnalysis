@@ -182,9 +182,9 @@ alpha = 0.05
 
 ```python
 if t_test_total.pvalue < alpha:
-    print("Rejeitamos a hipótese nula (H0) para Total.")
+    print("We reject the null hypothesis (H0) for Total.")
 else:
-    print("Aceitamos a hipótese nula (H0) para Total.")
+    print("We accept the null hypothesis (H0) for Total.")
 ```
 
 
