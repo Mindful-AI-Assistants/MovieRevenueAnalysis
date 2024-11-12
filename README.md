@@ -161,7 +161,7 @@ print("Median - Releases:", median_releases)
 print("Median - Lifetime Gross:", median_lifetime_gross)
 ```
 
-### 5. Applying T-Tests to check if the mean of the variables differs from a reference value.
+#### 5. Applying T-Tests to check if the mean of the variables differs from a reference value.
 
 ```python
 # Apply t-tests to check if the variable means differ from a specific reference value
@@ -172,13 +172,13 @@ t_test_total = stats.ttest_1samp(df['Total'], 2.000000e+09)
 print("T-Test for Total:", t_test_total)
 ```
 
-### 5a. Definition of the significance level:
+#### 5a. Definition of the significance level:
 
 ```python
 alpha = 0.05
 ```
 
-### 5b. Null hypothesis check for 'Total':
+#### 5b. Null hypothesis check for 'Total':
 
 ```python
 if t_test_total.pvalue < alpha:
@@ -188,13 +188,21 @@ else:
 ```
 
 
-
+#### 6. Calculation of the t-test for 'Releases':
 
 ```python
 # T-test for 'Releases' with a reference value of 22
 t_test_releases = stats.ttest_1samp(df['Releases'], 22)
 print("T-Test for Releases:", t_test_releases)
+```
 
+
+
+
+
+
+
+```python
 # T-test for 'Lifetime Gross' with a reference value of 250 million
 t_test_lifetime_gross = stats.ttest_1samp(df['Lifetime Gross'], 250_000_000)
 print("T-Test for Lifetime Gross:", t_test_lifetime_gross)
@@ -210,6 +218,19 @@ sns.heatmap(df.corr(numeric_only=True), annot=True, center=0, cmap="coolwarm")
 plt.title('Correlation Heatmap of Variables')
 plt.show()
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📊 Results and Conclusions
 
