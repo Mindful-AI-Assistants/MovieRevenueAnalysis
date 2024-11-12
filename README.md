@@ -289,7 +289,7 @@ These metrics provide a foundational understanding of the variability and centra
 - **Lifetime Gross**: An average accumulated revenue of $235 million per film.
 
 
-### *v*Mode***
+### ***Mode***
 
 - **Total Revenue**: The mode of $1.5 billion suggests that this revenue value is the most frequently observed.
 - **Releases**: A mode of 15 indicates that many brands typically release around 15 films.
