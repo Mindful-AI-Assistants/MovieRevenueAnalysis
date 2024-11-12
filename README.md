@@ -337,7 +337,7 @@ This project was developed by the group consisting of:
 - [José Augusto de Souza Oliveira](https://github.com/Jojose3)
 - [Pedro Gallego Barenco](https://github.com/Pgbarenco)
 
-It is part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/).
+It is part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/).
 
 ## Contributions 🤝
 
