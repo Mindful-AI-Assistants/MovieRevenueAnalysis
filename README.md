@@ -274,6 +274,8 @@ plt.show()
 | **Range**       | $3 billion                  | 45       | $400 million                 |
 
 
+<br>
+
 These metrics provide a foundational understanding of the variability and central tendencies in the financial performance of movie brands and studios. They serve as the baseline for further statistical testing and correlation analysis.
 
 
