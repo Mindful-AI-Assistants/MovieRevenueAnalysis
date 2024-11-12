@@ -102,7 +102,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 ```
 
-####  Load data file and verify the file path
+#### 1a. Load data file and verify the file path
 
 ```python
 try:
@@ -111,7 +111,7 @@ except FileNotFoundError:
     print("File not found. Please check the file name and path.")
 ```
     
-#### Display the data header to understand the structure
+#### 1b. Display the data header to understand the structure
 
 ```python
 df.head()
