@@ -178,9 +178,14 @@ print("T-Test for Total:", t_test_total)
 alpha = 0.05
 ```
 
+### 5b. Null hypothesis check for 'Total':
 
-
-
+```python
+if t_test_total.pvalue < alpha:
+    print("Rejeitamos a hipótese nula (H0) para Total.")
+else:
+    print("Aceitamos a hipótese nula (H0) para Total.")
+```
 
 
 
