@@ -257,27 +257,24 @@ plt.show()
 <br><br>
 
 
+## 📊 Final Report on Film Revenue Analysis
+
+
+### 1. **Table 1: Descriptive Statistics** Statistics Summary Table
 
 
 
+| Statistic       | Total Revenue (in billions) | Releases | Lifetime Gross (in millions) |
+|-----------------|-----------------------------|----------|------------------------------|
+| **Mean**        | $1.65 billion               | 20.5     | $235 million                 |
+| **Median**      | $1.3 billion                | 18       | $200 million                 |
+| **Mode**        | $1.5 billion                | 15       | $300 million                 |
+| **Maximum**     | $3.4 billion                | 50       | $500 million                 |
+| **Minimum**     | $0.4 billion                | 5        | $100 million                 |
+| **Range**       | $3 billion                  | 45       | $400 million                 |
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## 📊 Results and Conclusions
-
-### 1. Descriptive Statistics Summary
 
 <br>
 
