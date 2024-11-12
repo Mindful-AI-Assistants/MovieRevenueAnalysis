@@ -211,8 +211,7 @@ else:
     print("We accept the null hypothesis (H0) for Total.")
 ```
 
-
-
+### 7. Calculation of the t-test for 'Lifetime Gross':
 
 
 ```python
