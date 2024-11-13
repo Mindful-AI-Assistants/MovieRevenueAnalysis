@@ -2,13 +2,14 @@
 
 #  <p align="center"> 🎥💰  Movie Companies Revenue Analysis: Statistical Insights and Release Strategies
 
-It is part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/).
-
-
 <br>
 
  <p align="center">
 <img src="https://github.com/user-attachments/assets/44205022-1828-4be5-96ce-390a0ce9436c" />
+
+<br><br>
+
+It is part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/).
 
 <br><br>
 
