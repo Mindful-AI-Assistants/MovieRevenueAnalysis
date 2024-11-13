@@ -409,6 +409,16 @@ Based on the findings, here are some recommendations to help studios optimize th
 In summary, the results suggest that studios are in a solid competitive position, employing strategies aligned with market expectations and optimizing their revenue growth potential. By balancing the volume of releases with each film’s quality and potential success, studios can continue to enhance their financial performance. Additionally, targeted marketing strategies can help capture more value from the audience, strengthening the impact of each release. In essence, a combination of high-yield films, a moderate release volume, and targeted marketing may be an effective formula for studios aiming to maximize their total revenue and solidify their position in the film industry.
 
 
+<br>
+
+## Extra Material Provided
+
+[Data Analysis Report]()
+
+
+
+
+
 <br><br>
 
 ## 🏅 Credits
