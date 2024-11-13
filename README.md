@@ -438,7 +438,7 @@ Please ensure your code follows best practices and is well-documented.
 Feel free to suggest improvements or contribute to this project. Just open an **Issue** or submit a **Pull Request**!
 
 
-## 📞 Contact
+## 💌 Contact
 
 For questions or suggestions, please reach out Fabiana 🚀 Campanari via [email](mailto:fabicampanari@proton.me).
 
