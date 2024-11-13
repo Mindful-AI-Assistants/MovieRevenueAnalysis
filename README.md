@@ -17,7 +17,9 @@ It is part of an academic analysis of financial data within the film industry, c
 
 <br><br>
 
-This analysis investigates the financial performance of movie brands and studios, focusing on key revenue metrics: **Total Revenue**, **Releases**, and **Lifetime Gross**. Using descriptive statistics, t-tests, correlation analysis, and graphical representations, we explore the relationships among these variables and assess how well they align with expected performance benchmarks.
+This project analysis investigates the financial performance of movie brands and studios, focusing on key revenue metrics: **Total Revenue**, **Releases**, and **Lifetime Gross**. Using descriptive statistics, t-tests, correlation analysis, and graphical representations, we explore the relationships among these variables and assess how well they align with expected performance benchmarks.
+
+<br><br>
 
 ## Acknowledgments 🙏
 
