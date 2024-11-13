@@ -2,6 +2,9 @@
 
 #  <p align="center"> 🎥💰  Movie Companies Revenue Analysis: Statistical Insights and Release Strategies
 
+It is part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/).
+
+
 <br>
 
  <p align="center">
@@ -14,7 +17,6 @@
 <br><br>
 
 This analysis investigates the financial performance of movie brands and studios, focusing on key revenue metrics: **Total Revenue**, **Releases**, and **Lifetime Gross**. Using descriptive statistics, t-tests, correlation analysis, and graphical representations, we explore the relationships among these variables and assess how well they align with expected performance benchmarks.
-
 
 ## Acknowledgments 🙏
 
@@ -413,7 +415,6 @@ This project was developed by the group that includes:
 - [José Augusto de Souza Oliveira](https://github.com/Jojose3)
 - [Pedro Gallego Barenco](https://github.com/Pgbarenco)
 
-It is part of an academic analysis of financial data within the film industry, conducted for the Statistical Mathematics course in the undergraduate program of Data Science and Artificial Intelligence at PUC-SP, under the guidance of Professor [Eric Bacconi Gonçalves](https://www.linkedin.com/in/eric-bacconi-423137/).
 
 ## Contributions 🤝
 
