@@ -383,7 +383,12 @@ Based on the findings, here are some recommendations to help studios optimize th
 
     The observed correlation between a film’s cumulative revenue and a studio’s total revenue suggests that high-grossing films significantly contribute to overall revenue. Therefore, it would be advantageous to prioritize investments in titles with high potential for success, whether through established franchises, renowned talent, or intensive marketing. These “high-yield” films can often have a disproportionately positive impact on total revenue.
 
+   <br>
 
+2. **⚖️ Optimize Release Volume**  
+
+   In addition to focusing on high-potential titles, studios should consider a balanced annual release volume. The study found that a moderate release volume correlates with strong cumulative revenue, indicating that studios that avoid oversaturating the market can maximize the return from each release without straining production and marketing resources. Planning releases in strategic timeframes and avoiding excessive overlap can also enhance the financial performance of each film.
+   
 
 
  
