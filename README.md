@@ -415,8 +415,7 @@ In summary, the results suggest that studios are in a solid competitive position
 
 [Data Analysis Report](https://github.com/Mindful-AI-Assistants/MovieRevenueAnalysis/blob/32f2a557c21657875444fe7f0195b48180b6a7ee/Data%20Analyse%20Report/Portuguese/Poweer%20point%20Conteudo.pdf)
 
-
-
+[Power Point Presentation](https://github.com/Mindful-AI-Assistants/MovieRevenueAnalysis/blob/a703a4401214b2ce9a7bd29c485742da66440d3f/Presentation/Faturamento%20de%20empresas%20de%20filmes%20(final).pptx)
 
 
 <br><br>
