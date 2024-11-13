@@ -413,7 +413,7 @@ In summary, the results suggest that studios are in a solid competitive position
 
 ## Extra Material Provided
 
-[Data Analysis Report]()
+[Data Analysis Report](https://github.com/Mindful-AI-Assistants/MovieRevenueAnalysis/blob/32f2a557c21657875444fe7f0195b48180b6a7ee/Data%20Analyse%20Report/Portuguese/Poweer%20point%20Conteudo.pdf)
 
 
 
