@@ -388,7 +388,13 @@ Based on the findings, here are some recommendations to help studios optimize th
 2. **⚖️ Optimize Release Volume**  
 
    In addition to focusing on high-potential titles, studios should consider a balanced annual release volume. The study found that a moderate release volume correlates with strong cumulative revenue, indicating that studios that avoid oversaturating the market can maximize the return from each release without straining production and marketing resources. Planning releases in strategic timeframes and avoiding excessive overlap can also enhance the financial performance of each film.
-   
+
+<br>
+
+3. **📊 Targeted Marketing and High-Revenue Genres**  
+
+    Finally, implementing specific marketing strategies can help boost the performance of certain genres, especially those that tend to generate higher revenues. Targeted marketing based on genre, audience, and previous success can amplify a film’s earning potential. This approach allows studios to allocate marketing resources more efficiently, ensuring that each release reaches the right audience and maximizes its success.
+
 
 
  
