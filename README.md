@@ -341,7 +341,7 @@ To examine whether the observed averages of **Total Revenue**, **Releases**, and
 
 #
 
-$## 4. Correlation Analysis with Heatmap 🔥
+### 4. Correlation Analysis with Heatmap 🔥
 
 To understand the relationships between **Total Revenue**, **Releases**, and **Lifetime Gross Revenue**, a correlation analysis was conducted and visualized using a heatmap:
 
