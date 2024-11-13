@@ -352,12 +352,19 @@ To understand the relationships between **Total Revenue**, **Releases**, and **L
 | **Releases**             | 0.62          | 1.00            | 0.58                    |
 | **Lifetime Gross Revenue** | 0.85        | 0.58            | 1.00                    |
 
-#
+
+<br><br>
 
 ## <p align="center"> 🎬 Main Conclusions of the Study and Strategic Recommendations
 
 1. **📈 Consistent Performance in the Industry**  
    The statistical analysis indicates that, overall, the observed averages for total revenue, number of releases, and cumulative revenue align with industry benchmarks. This alignment suggests that studios are performing within expected standards for the film industry, reflecting that their strategies are effectively yielding revenue that meets market standards.
+
+   <br>
+
+3. **🔗 Positive Relationships Between Releases, Cumulative Revenue, and Total Revenue**  
+   A key finding in the correlation analysis is the positive relationship between the number of releases, a film’s cumulative revenue, and a studio’s total revenue. The correlation suggests that studios with more releases or those producing films with high cumulative earnings tend to generate higher overall revenue. This means that, strategically, there’s value in prioritizing both the quantity of releases and the revenue potential of each film. The direct relationship between these variables underscores that both aspects—volume and the box office potential of films—are crucial for a studio’s overall financial success.
+   
 
 
 
