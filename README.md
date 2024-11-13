@@ -395,6 +395,7 @@ Based on the findings, here are some recommendations to help studios optimize th
 
     Finally, implementing specific marketing strategies can help boost the performance of certain genres, especially those that tend to generate higher revenues. Targeted marketing based on genre, audience, and previous success can amplify a film’s earning potential. This approach allows studios to allocate marketing resources more efficiently, ensuring that each release reaches the right audience and maximizes its success.
 
+  <br><br>
 
 **📋 Final Conclusion**
 
