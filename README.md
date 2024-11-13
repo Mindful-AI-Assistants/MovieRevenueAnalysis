@@ -45,7 +45,7 @@ The analysis uses several statistical methods and visualizations, including:
 
 ## 🗂️ Dataset
 
-👉🏻 Click to [access the dataset](https://github.com/Mindful-AI-Assistants/MovieRevenueAnalysis/blob/91121a46ec589808505cffe5eba221114625ae9b/dataset/Movie%20companies.xlsx).
+👉🏻 Click here to [access the dataset](https://github.com/Mindful-AI-Assistants/MovieRevenueAnalysis/blob/91121a46ec589808505cffe5eba221114625ae9b/dataset/Movie%20companies.xlsx).
 
 The file `Movie companies.xlsx` includes the following variables:
 - **Total**: Total cumulative revenue per company.
