@@ -388,15 +388,9 @@ Based on the findings, here are some recommendations to help studios optimize th
 
 <br><br>
 
-## 📢 Conclusion
-
-The analysis reveals that the **number of releases** correlates with increased **lifetime gross**, and that the average total revenue is below 2 billion, rejecting the hypothesis of a mean above this value. The t-test indicated that, for most companies, the cumulative lifetime gross surpasses 250 million, supporting the industry’s growth with strategic releases.
-
-
-
 ## 🏅 Credits
 
-This project was developed by the group consisting of:
+This project was developed by the group that includes:
 
 - [Fabiana 🚀 Campanari](https://github.com/FabianaCampanari)
 - [Gabriel Melo Dos Santos](https://github.com/Gabri3l-M)
