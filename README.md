@@ -339,19 +339,11 @@ To examine whether the observed averages of **Total Revenue**, **Releases**, and
 | Lifetime Gross  | $250 million         | $256 million        | 0.863            | No significant difference from reference value.      
 
 
+#
+
+$## 4. Correlation Analysis with Heatmap 🔥
 
 
-
-
-
-
-
-
-
-
-<br>
-
-## 3. Correlation Analysis with Heatmap 🔥
 
 
 
