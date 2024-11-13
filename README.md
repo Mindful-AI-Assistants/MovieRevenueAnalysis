@@ -369,7 +369,13 @@ To understand the relationships between **Total Revenue**, **Releases**, and **L
 
 3. **🎭 Significant Variability Among Studios**  
    The descriptive statistics reveal significant diversity in total revenue, number of releases, and cumulative revenue across studios. This variability reflects the flexible strategies adopted by different studios and shows how they tailor their practices according to resources, market positioning, and audience characteristics. This highlights that there is no single approach that works for all; instead, different strategies may be effective depending on each company’s unique attributes and goals.
-  
+
+  <br><br>
+
+## <p align="center"> 🚀 Strategic Conclusions and Recommendations 
+
+Based on the findings, here are some recommendations to help studios optimize their financial results and stay competitive:
+
 
 
  
