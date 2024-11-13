@@ -354,7 +354,11 @@ To understand the relationships between **Total Revenue**, **Releases**, and **L
 
 #
 
-## p align="center"> 🎬 Main Conclusions of the Study and Strategic Recommendations
+## <p align="center"> 🎬 Main Conclusions of the Study and Strategic Recommendations
+
+1. **📈 Consistent Performance in the Industry**  
+   The statistical analysis indicates that, overall, the observed averages for total revenue, number of releases, and cumulative revenue align with industry benchmarks. This alignment suggests that studios are performing within expected standards for the film industry, reflecting that their strategies are effectively yielding revenue that meets market standards.
+
 
 
 
