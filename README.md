@@ -352,12 +352,13 @@ To understand the relationships between **Total Revenue**, **Releases**, and **L
 | **Releases**             | 0.62          | 1.00            | 0.58                    |
 | **Lifetime Gross Revenue** | 0.85        | 0.58            | 1.00                    |
 
+#
+
+## p align="center"> 🎬 Main Conclusions of the Study and Strategic Recommendations
 
 
 
-
-
-
+ 
 
 
 
