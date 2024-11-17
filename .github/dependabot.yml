@@ -1,7 +1,6 @@
 version: 2  
 
 updates:  
-
   # Configuração para dependências de Python (requirements.txt)  
   - package-ecosystem: "pip"  # Usa pip para gerenciar dependências  
     directory: "/"              # Diretório do projeto  
